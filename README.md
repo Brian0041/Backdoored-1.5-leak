@@ -12,3 +12,6 @@ People started selling this. I dont want any of the hardwork my dev team has put
 While not obfuscated, yes, this is decompiled code, and doesnt include stuff like formatting and comments and also tragically has brackets on the same line.
 
 This is what is being sold. Thats all Im going to release. Im not gonna spread anything that wasnt already being spread.
+
+## Why didnt you searge map
+Anyone who isnt a worthless skid will be able to map them themselves.
